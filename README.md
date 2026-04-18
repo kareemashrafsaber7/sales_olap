@@ -79,6 +79,10 @@ Top customer (discount eligibility)
 5. Product Contribution
 Contribution of each product to total sales
 
+📈 Analytical Queries
+
+A collection of SQL queries used to validate the data warehouse and generate insights
+
 
 
 🚀 How to Run
