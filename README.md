@@ -79,6 +79,9 @@ Top customer (discount eligibility)
 5. Product Contribution
 Contribution of each product to total sales
 
+📸 Schema
+![Star Schema](./Docs/schemaa.png)
+
 
 🚀 How to Run
 Restore or create the source (OLTP) database
